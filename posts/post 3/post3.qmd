@@ -18,7 +18,11 @@ Then we looked at our charts, we saw something interesting. If you just look at 
 
 Because these few men got such huge raises, it can make it look like men are doing better overall. But is that actually true for the “average” professor?
 
-To find the truth, we didn’t just look at gender. We also looked at: What field do they work in? (e.g., Professional vs Arts) When did they get their degree? (Seniority) Do they have extra boss duties? (Administrative roles)
+To find the truth, we didn’t just look at gender. We also looked at:
+
+1.  What field do they work in? (e.g., Professional vs Arts)
+2.  When did they get their degree? (Seniority)
+3.  Do they have extra boss duties? (Administrative roles)
 
 Here is what we found: When we compared a man and a woman in the same field, with the same experience, there was no evidence that men got more money. In fact, after we took out those few super high raises, we found that women actually got a slightly larger boost (about \$60 more) than men!
 
