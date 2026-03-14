@@ -12,7 +12,7 @@ First, we looked at over 500 professors who were promoted. Right away, we notice
 
 When we looked at the average pay raise, the average jump was about \$473 per month. Most people saw a nice increase, but one person actually saw their pay drop by \$352. This could be attributed to the cessation of administrative stipends, grant-related funding adjustments, or potential data entry anomalies. For the purpose of this study, we retain these observations to maintain the integrity of the original dataset while acknowledging them as low-end outliers. On the other hand, one lucky person got a massive raise of over \$2,805 monthly!
 
-![](Screenshot 2026-03-14 at 3.35.54 PM.png){alt="Boxplot of Salary Increases by Gender"}
+![](Screenshot%202026-03-14%20at%203.35.54%20PM.png){alt="Boxplot of Salary Increases by Gender"}
 
 Then we looked at our charts, we saw something interesting. If you just look at the highest raises, a few men got much higher “jumps” than any of the women. In statistics, we call this “outliers” - people who don’t follow the normal pattern.
 
