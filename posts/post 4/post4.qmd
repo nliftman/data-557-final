@@ -11,8 +11,9 @@ We looked at faculty salaries at a large university from 1976 to 1995. To get a 
 To make a fair comparison, we considered factors like:
 
 1.  Years of experience since earning their degree
-2.  Academic field and degree Faculty rank (Assistant, Associate, or Full Professor)
-3.  Administrative duties
+2.  Academic field and degree
+3.  Faculty rank (Assistant, Associate, or Full Professor)
+4.  Administrative duties
 
 Essentially, we asked: “*If men and women had the same qualifications, would they earn the same?*”
 
@@ -25,7 +26,7 @@ We built two simple “prediction models” for salaries:
 
 If adding gender improves the prediction, it suggests there’s a gender-based pay gap that isn’t explained by experience, rank, or field.
 
-## What We Found? 
+## What We Found?
 
 Our analysis revealed a clear pattern:
 
