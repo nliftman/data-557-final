@@ -1,11 +1,15 @@
 ---
 title: "Part 7: Wrapping Up"
-author: "Naomi Liftman"
+author: "Naomi Liftman & Saeah Go"
 date: "2026-03-08"
 ---
 
-While we spent the last two posts discussing issues with the analysis methods and the data collection itself, we still found interesting findings!
+While we spent the last two posts discussing issues with the analysis methods and the data collection itself, we still found interesting findings! What did we truly learn about gender equity at this institution?
 
-We found from our analysis is that there is a difference in starting salary between men and women. We did not find that men were paid more when promoted to Full Professor. And we found that even when men and women have the same experience, qualifications, and responsibilities, systematic pay gaps exist. Even though our methods and the data itself had issues, there is still power in each of our findings!
+1.  We found a significant gap in starting salaries. Right from day one, women were at a disadvantage, earning less than their male colleagues even with similar backgrounds.
 
-**Thank you for reading our seven part series on gender discrimination at a university!**
+2.  While we found no gender discrimination in promotion raises (in fact, women's raises were slightly higher in some models!), these jumps were not large enough to close the initial gap created at the time of hire.
+
+3.  Because of that early "starting line" difference, the 1995 snapshot shows a persistent overall pay gap. Even when men and women reached the same level of experience and responsibility, the shadow of the starting salary followed them throughout their careers.
+
+While our data and methods had some limitations, the message is clear: **The university's pay gap isn't about how people are promoted; it's about how they are hired.** Systematic discrimination exists not because the rules change halfway through, but because they start unequally. To truly achieve equity, the university must focus on closing the gap at the point of entry. Thank you for reading our seven part series on gender discrimination at a university! We hope this analysis serves as a starting point for more transparent and fair conversations about faculty compensation.
