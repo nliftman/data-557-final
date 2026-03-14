@@ -1,0 +1,8 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+---
+
+This blog was compiled for the final assignment for Data 557 in association with the Masters of Data Science through the University of Washington.

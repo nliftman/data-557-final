@@ -1,0 +1,13 @@
+---
+title: "Part 6: Trust the Data?"
+author: "Naomi Liftman"
+date: "2026-03-07"
+---
+The other way that our results may not be generalizable are things that occurred before we even started looking at the data. To start, we have no idea where this data was collected from! Different universities in the United States have very different starting salaries and that is due to the cost of living in certain areas. So looking at a University in downtown Seattle versus in rural Idaho, we would expect there to be very different salaries. We also may expect there to be differences culturally in what is allowed regarding sexist hiring policies. More conservative areas may have a higher rate of sexism in their workforce and may pay their women less. 
+
+The data also excludes medical school faculty, which makes sense since we may expect the starting salary for a medical school professor to be higher than the base salary for a non-medical school professor in general. However, this means that our findings are not easily applied to medical school faculty. 
+
+Throughout the analysis of our data our amazing researchers found multiple moments were we stopped and said “ugh I wish we had data for this”. For example, we wanted data on the race of each faculty member since race can often play a huge role in hiring. We are also missing key data that may be confounding the salaries such as age, publications, grants, teaching evaluations, and others that we may not have even thought of! Another issue is that data is collected from 1976 to 1995 and while we did normalize the salaries to be in 2026 dollars, sexism in the workplace has changed greatly from 1975 to 2026. 
+
+So as you can see, outside of the issues that arise with our modeling and analysis techniques–there are issues with the data itself! 
+

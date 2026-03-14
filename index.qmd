@@ -1,0 +1,14 @@
+---
+title: "Gender Equity in Academics"
+listing:
+  contents: posts
+  sort: "date asc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Welcome to our blog, which details a seven part series addressing gender pay equity in higher education.

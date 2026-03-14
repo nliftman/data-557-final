@@ -1,0 +1,13 @@
+---
+title: "Part 5: Trust in the Outcomes?"
+author: "Naomi Liftman"
+date: "2026-03-06"
+---
+
+In our next two posts we will discuss issues with generalizing what we have found so far! This is broken into two posts because there are two main areas where we can run into issues. The first is with our data analysis itself. Did we do things correctly? Did our models meet the necessary requirements? Lets find out!
+
+All models have requirements of the data before you can run them! Some of those important requirements include that the data should be modeled using a line! Some graphs show curves or other shapes where a line would not be the right way to go! Thankfully our data did appear to work through a line model.
+
+We also had to check that the data around the line that we modeled was equally random throughout! Even without a data science background if you look at a graph like this one: which shows the randomness around our line, we can see that the randomness is not the same distance from the line throughout! This is a problem in the data science world we call “lack of constant variance”. And since our data did **not** meet this requirement, we had to change our analysis approach to account for it!
+
+So checking the data itself before we did any modeling helped us to avoid common errors that would affect our results negatively! This means that our modeling is a much better fit than if we had not checked these assumptions and are actually points in the positive for generalizing our results!

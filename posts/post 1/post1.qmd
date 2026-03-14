@@ -1,0 +1,26 @@
+---
+title: "Part 1: Are Salries Fair?"
+author: "Naomi Liftman"
+date: "2026-03-01"
+---
+
+Have you ever wondered if men and women are truly paid the same for doing the same job? In the United States, we often hear that women earn less than men, even when they have the same experience and positions. But is this really happening inside our universities?
+
+To find the truth, our team decided to go beyond the headlines and look at the actual numbers. We analyzed data from a major U.S. university involving 1,597 faculty members. We wanted to see if the "fairness" we expect in education is reflected in their paychecks.
+
+Over the next few posts, we will answer four big questions:
+
+1.  **The Starting Salary**: Do men and women start with the same salary when they are first hired?
+2.  **The Promotion Boost:** When professors get promoted (from Associate to Full Professor), do they get the same pay raise?
+3.  **The Big Picture**: Overall, is there clear evidence of gender pay discrimination at this university?
+4.  **The Reality Check**: Can we apply these findings to other universities or to the world today?
+
+The data itself includes nine variables including sex of the professor, the degree they had achieved, year they were hired, field they would teach in, start year, monthly salary, rank, if they held administrative duties. But before we can dig into these variables, we had to make sure we were working with clean ingredients. We looked at data from 1976 to 1995 (excluding the medical school) and did some careful cleaning.
+
+Sometimes, data comes with “missing pieces” (what we call NA or empty spots). For example, a few records didn't list a professor's rank. Since we can't analyze what we don't know, we removed those few incomplete entries. Don't worry, though—it was only a tiny fraction of our data (just four out of thousands!), so it doesn't change the overall story.
+
+**What’s next?** Numbers can tell a powerful story, but they can also be tricky. In our next post, we’re going back to the very beginning: The Day of Hiring.
+
+Does the pay gap start on day one?
+
+Stay tuned to find out!

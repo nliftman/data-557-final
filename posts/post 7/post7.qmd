@@ -1,0 +1,11 @@
+---
+title: "Part 7: Wrapping Up"
+author: "Naomi Liftman"
+date: "2026-03-08"
+---
+
+While we spent the last two posts discussing issues with the analysis methods and the data collection itself, we still found interesting findings!
+
+We found from our analysis is that there is a difference in starting salary between men and women. We did not find that men were paid more when promoted to Full Professor. And we found that even when men and women have the same experience, qualifications, and responsibilities, systematic pay gaps exist. Even though our methods and the data itself had issues, there is still power in each of our findings!
+
+**Thank you for reading our seven part series on gender discrimination at a university!**

@@ -1,0 +1,46 @@
+---
+title: "Part 4: Is the University Discriminatory?"
+author: "Aishwarya Gupta"
+date: "2026-03-05"
+---
+
+In this post, we explore how gender can influence pay in universities - even when men and women have similar experience, degrees, and responsibilities.
+
+We looked at faculty salaries at a large university from 1976 to 1995. To get a clear “snapshot” of the situation, we focused on the most recent year, 1995. This way, we could see the accumulated effects of pay practices over time.
+
+To make a fair comparison, we considered factors like:
+
+1.  Years of experience since earning their degree
+2.  Academic field and degree Faculty rank (Assistant, Associate, or Full Professor)
+3.  Administrative duties
+
+Essentially, we asked: “*If men and women had the same qualifications, would they earn the same?*”
+
+## How We Measured Fair Pay?
+
+We built two simple “prediction models” for salaries:
+
+1.  Fair Model: Predicts salary based on qualifications and responsibilities alone.
+2.  Full Model: Adds **gender** to see if it explains any extra differences in pay.
+
+If adding gender improves the prediction, it suggests there’s a gender-based pay gap that isn’t explained by experience, rank, or field.
+
+## What We Found? 
+
+Our analysis revealed a clear pattern:
+
+In 1995, men earned about \$298 more per month than women with the same qualifications and duties. This difference is statistically significant, which means it’s unlikely to be due to random chance.
+
+We also looked at how rank affects the gap through predictions models:
+
+1.  When controlling for rank, the pay gap is smaller (\$298/month), reflecting unequal pay within the same rank.
+2.  When ignoring rank, the gap grows to \$420/month, highlighting a “glass ceiling” effect where women are less likely to hold higher-paying senior positions.
+
+We analysed the Rank distribution among both genders and found men are heavily represented in the highest faculty ranks, while women are more concentrated in lower ranks. This explains part of the total pay gap.
+
+**Female faculty face a double disadvantage:**
+
+1.  They are paid less than men within the same rank.
+2.  They are underrepresented in senior positions, which offer higher salaries.
+
+Combined, these effects can add up to significant financial inequality over a career. Even when men and women have the same experience, qualifications, and responsibilities, systematic pay gaps exist.
