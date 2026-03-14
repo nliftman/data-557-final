@@ -141,16 +141,27 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>After reviewing the introduction and gaining a brief understanding of the data we are working with in this analysis, consider this question to yourself:</p>
-<p><strong>“Does wage discrimination actually exist in the starting salaries between men and women faculty members?”</strong></p>
+<p>After reviewing the introduction and gaining a brief understanding of the data we are working with in this analysis, consider this question to yourself;</p>
+<p>“Does wage discrimination actually exist in the <strong>starting salaries</strong> between men and women faculty members?”&nbsp;</p>
 <p>What is the instinctive answer that comes to your mind?</p>
-<p>Well, to determine if a bias actually exists in the starting salaries, we will first have to adjust our data from our original dataset, with almost 20,000 entries, to a dataset which only looks at salary in a professor’s starting year. What we noticed was that since the original data was recorded from 1976 to 1995, not all faculty members had a recorded starting salary. So we went from the original 1,597 faculty to only 1,107!</p>
-<p>We then used two simple methods to test for the difference in between the starting salary of men and women, one testing for a difference in the average starting salary of the two groups and another testing for whether gender is the only factor that had an effect on starting salary in general.</p>
-<p>We first calculated the average starting salary of men to be $4015.55 and the average starting salary for women to be $3600.32. Which displays an obvious difference of $415.23. We then used statistical analysis to determine if this was a significant difference and we found that it was! This suggests that assuming salary is only affected by gender, male faculty members on average make $415.23 more than women faculty members!</p>
-<p>Now you may be an astute reader and have noticed the super important phrasing of “assuming salary is only affected by gender”. Do you think salary is only affected by gender?</p>
-<p><strong>Probably not!</strong> From our analysis, we found that starting year and field also have a significant effect on starting salaries. When we take these two variables into account, the effect of gender on starting salary also changes. When all other variables are held constant:</p>
-<p>Male faculty members’ starting salary is 14.3% higher than their female counterparts. Professors in the field categorized as “Other” have a starting salary that is 16.5% higher than those in the “Arts” Professors in the Professional field have a starting salary that is 31.8% higher than those in the “Arts” And professors in the Professional field have a starting salary that is 13.2% higher than those working in the Other category When looking at the starting year, starting salary increases by 5.9% per year, which is a potential indication for inflation.</p>
-<p>So to answer the question in short, <strong>Yes! wage discrimination does exist in the starting salaries of men and women faculty members!</strong> This is reflected in both the average starting salary and the effect of gender on salary. Although starting salary is also affected by what field that the faculty member is in, and even more affected by the starting year, the test conducted in this analysis provides significant evidence of a difference between the starting salaries of women and men faculty members in general.</p>
+<p>Well, to determine if a bias actually exists in the starting salaries, we will first have to adjust our data from our original dataset, with almost 20,000 entries, to a dataset which only looks at salary in a professor’s starting year. What we noticed was that since the original data was recorded from 1976 to 1995, not all faculty members had a recorded starting salary. So we went from the original 1,597 faculty to only 1,107!<br>
+</p>
+<p>We then used two simple methods to test for the difference in between the starting salary of men and women, one testing for a difference in the average starting salary of the two groups and another testing for whether gender is the only factor that had an effect on starting salary in general.&nbsp;</p>
+<p>We first calculated the average starting salary of men to be $4015.55 and the average starting salary for women to be $3600.32, which displays an obvious difference of $415.23. We then used statistical analysis to determine if this was a significant difference and we found that it was!&nbsp;</p>
+<p>This suggests that assuming salary is only affected by gender, male faculty members on average make $415.23 more than women faculty members!</p>
+<p>Now you may be an astute reader and have noticed the super important phrasing of “assuming salary is only affected by gender”. Do you think gender still has an effect on salary when other predictor variables are included?</p>
+<p>We conducted a second approach to verify the effect of gender on salary by testing a base model(where sex is not included) and a full model(where sex is included) to see if there is a significant effect of gender on salary when other aspects such as the starting year, field, rank etc. are incorporated into the model. It turns out that after controlling for all other predictor variables, sex still explains a significant amount of variation in salary.</p>
+<p>From our analysis, we found that starting year, field, admin, and rank also had significant effects on starting salaries. When we take these four variables into account, the effect of gender on starting salary also changed as described below . When all other variables are held constant:<br>
+</p>
+<ul>
+<li><p>Male faculty members’ starting salary is 14.3% higher than their female counterparts.</p></li>
+<li><p>Professors in the field categorized as “Other” have a starting salary that is 16.5% higher than those in the “Arts”</p></li>
+<li><p>Professors in the Professional field have a starting salary that is 31.8% higher than those in the “Arts”</p></li>
+<li><p>And professors in the Professional field have a starting salary that is 13.2% higher than those working in the Other category</p></li>
+</ul>
+<p>When looking at the starting year, starting salary increases by 5.9% per year, which is a potential indication for inflation.&nbsp;</p>
+<p><br>
+So to answer the question in short, <strong>Yes</strong>! <strong>wage discrimination does exist in the starting salaries of men and women faculty members!</strong> &nbsp;This is reflected in both the average starting salary and the effect of gender on salary. Although starting salary is also affected by what field that the faculty member is in, and even more affected by the starting year, the test conducted in this analysis provides significant evidence of a difference between the starting salaries of women and men faculty members in general.</p>
 
 
 
