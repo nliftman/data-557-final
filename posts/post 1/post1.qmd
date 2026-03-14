@@ -1,5 +1,5 @@
 ---
-title: "Part 1: Are Salries Fair?"
+title: "Part 1: Are Salaries Fair?"
 author: "Naomi Liftman"
 date: "2026-03-01"
 ---
@@ -15,7 +15,21 @@ Over the next few posts, we will answer four big questions:
 3.  **The Big Picture**: Overall, is there clear evidence of gender pay discrimination at this university?
 4.  **The Reality Check**: Can we apply these findings to other universities or to the world today?
 
-The data itself includes nine variables including sex of the professor, the degree they had achieved, year they were hired, field they would teach in, start year, monthly salary, rank, if they held administrative duties. But before we can dig into these variables, we had to make sure we were working with clean ingredients. We looked at data from 1976 to 1995 (excluding the medical school) and did some careful cleaning.
+But first, lets talk data.
+
+Oue data itself includes nine variables.
+
+1.  `case`: acts as an index, so each row gets its own value
+2.  `sex`: is a binary variable. This means it can only take on two values: male or female
+3.  `deg`: is again binary and refers to the type of degree a professor has (either "Professional" or "PhD"
+4.  `yrdeg`: the year a professor achieved their degree
+5.  `field`: is the specific school a professor works in ("Arts", "Professional", or "Other")
+6.  `startyr`: is the year a professor was hired at the university
+7.  `salary`: the monthly salary (in USD) for a faculty member in that year
+8.  `rank`: the level of a professor ("Assistant", "Associate" and "Full"). With associate being the lowest in the academic hierarchy and full being the highest
+9.  `admin`: is our final binary variable and indicates whether a faculty member has held administrative duties
+
+But before we can dig into these variables, we had to make sure we were working with clean ingredients. We looked at data from 1976 to 1995 (excluding the medical school) and did some careful cleaning.
 
 Sometimes, data comes with “missing pieces” (what we call NA or empty spots). For example, a few records didn't list a professor's rank. Since we can't analyze what we don't know, we removed those few incomplete entries. Don't worry, though—it was only a tiny fraction of our data (just four out of thousands!), so it doesn't change the overall story.
 

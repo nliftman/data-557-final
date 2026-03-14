@@ -22,7 +22,7 @@ Here is what we found: When we compared a man and a woman in the same field, wit
 
 So, it turns out that your gender isn’t what decides your promotion raise. The real factors are:
 
-1.  Your field: Professors in “Professional fields (like Engineering) get much bigger raises than those in the Arts.
+1.  Your field: Professors in “Professional" fields (like Engineering) get much bigger raises than those in the Arts.
 2.  Timing: People who got their degrees more recently tend to see bigger jumps, likely because of inflation and newer university rules.
 
 So, is there wage discrimination when getting promoted to "Full Professor"?

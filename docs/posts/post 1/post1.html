@@ -9,7 +9,7 @@
 <meta name="author" content="Naomi Liftman">
 <meta name="dcterms.date" content="2026-03-01">
 
-<title>Part 1: Are Salries Fair? – Data 557 Final Blog</title>
+<title>Part 1: Are Salaries Fair? – Data 557 Final Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -105,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Part 1: Are Salries Fair?</h1>
+      <h1 class="title">Part 1: Are Salaries Fair?</h1>
                       </div>
   </div>
     
@@ -150,7 +150,20 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>The Big Picture</strong>: Overall, is there clear evidence of gender pay discrimination at this university?</li>
 <li><strong>The Reality Check</strong>: Can we apply these findings to other universities or to the world today?</li>
 </ol>
-<p>The data itself includes nine variables including sex of the professor, the degree they had achieved, year they were hired, field they would teach in, start year, monthly salary, rank, if they held administrative duties. But before we can dig into these variables, we had to make sure we were working with clean ingredients. We looked at data from 1976 to 1995 (excluding the medical school) and did some careful cleaning.</p>
+<p>But first, lets talk data.</p>
+<p>Oue data itself includes nine variables.</p>
+<ol type="1">
+<li><code>case</code>: acts as an index, so each row gets its own value</li>
+<li><code>sex</code>: is a binary variable. This means it can only take on two values: male or female</li>
+<li><code>deg</code>: is again binary and refers to the type of degree a professor has (either “Professional” or “PhD”</li>
+<li><code>yrdeg</code>: the year a professor achieved their degree</li>
+<li><code>field</code>: is the specific school a professor works in (“Arts”, “Professional”, or “Other”)</li>
+<li><code>startyr</code>: is the year a professor was hired at the university</li>
+<li><code>salary</code>: the monthly salary (in USD) for a faculty member in that year</li>
+<li><code>rank</code>: the level of a professor (“Assistant”, “Associate” and “Full”). With associate being the lowest in the academic hierarchy and full being the highest</li>
+<li><code>admin</code>: is our final binary variable and indicates whether a faculty member has held administrative duties</li>
+</ol>
+<p>But before we can dig into these variables, we had to make sure we were working with clean ingredients. We looked at data from 1976 to 1995 (excluding the medical school) and did some careful cleaning.</p>
 <p>Sometimes, data comes with “missing pieces” (what we call NA or empty spots). For example, a few records didn’t list a professor’s rank. Since we can’t analyze what we don’t know, we removed those few incomplete entries. Don’t worry, though—it was only a tiny fraction of our data (just four out of thousands!), so it doesn’t change the overall story.</p>
 <p><strong>What’s next?</strong> Numbers can tell a powerful story, but they can also be tricky. In our next post, we’re going back to the very beginning: The Day of Hiring.</p>
 <p>Does the pay gap start on day one?</p>
